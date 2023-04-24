@@ -3,7 +3,7 @@ String.prototype.capitalize = function() {
     return this.charAt(0).toUpperCase() + this.slice(1);
   };
 
-  let sentence= 'hello Emir Timur';
+  let sentence= 'hello Emir Teymur';
   console.log(sentence.capitalize());
 
 
